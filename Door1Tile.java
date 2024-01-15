@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [Door1Tile.java]
  * This class creates a single door tile and extends tile class
