@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [SkullTile.java]
  * This class creates a single skull tile and extends tile class
