@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [Flag1Tile.java]
  * This class creates a single flag tile and extends tile class
