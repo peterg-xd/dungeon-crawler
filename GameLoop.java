@@ -1,4 +1,4 @@
-package game;
+
 /* * * * * Imports * * * * */
 import java.awt.Dimension;
 import java.awt.Graphics;
