@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [WallTile.java]
  * This class creates a single wall tile and extends tile class
