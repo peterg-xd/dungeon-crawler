@@ -1,4 +1,4 @@
-package game;
+
 /* * * * * Imports * * * * */
 import java.awt.Graphics;
 import java.util.ArrayList;
