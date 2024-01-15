@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [SpikeTile.java]
  * This class creates a single spike tile and extends tile class
