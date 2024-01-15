@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [Barrel0Tile.java]
  * This class creates a single barrel tile and extends tile class
