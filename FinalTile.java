@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [FinalTile.java]
  * This class creates a single goal tile and extends tile class
