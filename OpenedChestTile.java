@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [OpenedChestTile.java]
  * This class creates a single opened chest tile and extends tile class
