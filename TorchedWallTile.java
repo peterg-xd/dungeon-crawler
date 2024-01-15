@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [TorchedWallTile.java]
  * This class creates a single torched wall tile and extends tile class
