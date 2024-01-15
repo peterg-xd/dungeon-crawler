@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [ManualTile.java]
  * This class creates a single tile showing the manual and extends tile class
