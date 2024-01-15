@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [ChestTile.java]
  * This class creates a single closed chest tile and extends tile class
