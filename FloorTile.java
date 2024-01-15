@@ -1,4 +1,4 @@
-package game;
+
 /**
  * [FloorTile.java]
  * This class creates a single walkable floor tile and extends tile class
